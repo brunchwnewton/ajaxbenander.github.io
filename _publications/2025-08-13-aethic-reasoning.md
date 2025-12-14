@@ -2,7 +2,7 @@
 title: "Aethic Reasoning: Addressing the Quantum Observer Effect With Abstract Relational Logic"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-13-aethic-reasoning.md
+permalink: /publication/2025-08-13-aethic-reasoning
 date: 2025-08-13
 paperurl: 'https://philpapers.org/archive/BENARA-6.pdf'
 venue: 'PhilArchive (Preprint)'
